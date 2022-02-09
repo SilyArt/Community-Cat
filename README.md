@@ -3,8 +3,6 @@ School Project - An online resorce for people to learn about how they can help t
 
 THIS IS NOT FOR PUBLIC USE OR REDISTRIBUTION
 
-Live Website Link: https://CommunityCat.SiLyArt.com/
-
 GitHub Pages: https://silyart.github.io/Community-Cat/
 
 
